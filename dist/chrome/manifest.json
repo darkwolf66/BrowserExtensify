@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Example Debug",
+  "description": "Example",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "js": [
+        "./extension.js"
+      ],
+      "matches": [
+        "https://*.google.com.br/*",
+        "https://*.google.com/*",
+        "https://google.com.br/*",
+        "https://google.com/*"
+      ]
+    }
+  ]
+}

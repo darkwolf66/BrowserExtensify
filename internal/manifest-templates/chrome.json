@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "",
+  "description": "",
+  "version": "",
+  "content_scripts": [
+    {
+      "js": [
+        "./extension.js"
+      ],
+      "matches": []
+    }
+  ]
+}
