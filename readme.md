@@ -1,6 +1,6 @@
 # BrowserExtensify
 
-### The first framework for multi browser extensions.
+### The first typescript framework for multi browser extensions.
 
 
 ## BE CAREFUL: Currently NOT FUNCTIONAL, development in progress...
